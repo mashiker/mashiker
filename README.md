@@ -1,11 +1,11 @@
 # Hi there, I'm Jevi - aka [jevisn]() 👋
 ## About me:
 - 🔭 I’m currently working at Mining Company as Tax Accountant
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🌱 I’m currently learning for USKP A & B
+- 👯 I’m looking to collaborate as Tax Analyst
+- 🤔 I’m looking for suggest...
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: 
 
 ## Education:
 
@@ -37,8 +37,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
-[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
+[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w30-h30)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
+[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w30-h30)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
 &nbsp;&nbsp;
 
 

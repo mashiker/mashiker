@@ -10,31 +10,20 @@
 ## Education:
 
 #### 1. [Universitas Jenderal Soedirman](https://unsoed.ac.id/) | Bachelor of Management | Purwokerto `2014-2018`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Purwokerto](http://www.sman1purwokerto.sch.id/) | MIPA | Kebumen `2011-2014`
+   - 
+ #### 2. [SMA N 1 Purwokerto](http://www.sman1purwokerto.sch.id/) | MIPA | Purwokerto `2011-2014`
    -
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Adhi Persada Properti](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+   - 
 ---
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
+
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+
 
 <br />
 <br />
@@ -42,18 +31,17 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/user/mamazjepi#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/user/mamazjepi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
+[![website](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU7J359LP4AhUAIbcAHbaPAmAQFnoECAQQAQ&url=https%3A%2F%2Fid.linkedin.com%2Fin%2Fjevisaladinnusantara&usg=AOvVaw37uUm3t9CM5fspSdI19DGR)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
+[webdev]: https://github.com/mashiker/mashiker

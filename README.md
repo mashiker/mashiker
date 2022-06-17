@@ -1,4 +1,4 @@
-# Hi there, I'm Jevi - aka [jevisn](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Jevi - aka [jevisn]() 👋
 ## About me:
 - 🔭 I’m currently working at Mining Company as Tax Accountant
 - 🌱 I’m currently learning Python and Javascript

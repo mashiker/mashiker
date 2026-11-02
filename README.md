@@ -1,7 +1,7 @@
 <h1 align="center">Jevi Saladin Nusantara</h1>
 
 <p align="center">
-  <b>Tax Supervisor turned TaxTech builder.</b><br/>
+  <b>Indonesia tax expert turned TaxTech builder.</b><br/>
   I ship tools that remove repetitive clicks, PDF re-typing, and spreadsheet drudgery from Indonesian tax work.
 </p>
 
@@ -15,7 +15,7 @@
 
 ### About
 
-- 7+ years in corporate tax (manufacturing → property → PMA manufacturing group), currently **Tax Supervisor** leading tax audit, SP2DK, and litigation support.
+- **Indonesia tax expert** with 7+ years in corporate tax (manufacturing → property → PMA manufacturing group), hands-on in tax audits, SP2DK, and litigation support.
 - Founder of **alatpajak.id** and **bukpotrekap.id**, a family of TaxTech products used by in-house tax teams, consultants, and SMEs working inside DJP **Coretax**.
 - I build with AI in the loop: LLM-assisted extraction, OCR for tax documents, and coding agents. Most of my stack runs on **Cloudflare Workers + D1**.
 - Based in Jakarta, Indonesia. Bahasa Indonesia and English.

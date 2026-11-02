@@ -28,8 +28,10 @@
 | [**BukpotRekap**](https://bukpotrekap.id) | Turns withholding tax slips (bukti potong) and tax invoices from PDF into clean Excel recaps. Desktop edition runs 100% locally for privacy. | Tauri 2 (Rust + React) · Python |
 | [**Bukpot Express**](https://github.com/mashiker/BukpotExpress) | Bulk downloader for bukti potong on Coretax. Live on the Chrome Web Store, source open under MIT. | JavaScript · Chrome Extension |
 | [**Simulasi UKP**](https://ukp.alatpajak.id) | Freemium computer-based test simulator for the Indonesian tax competency exam (UKP), with question bank, timed sessions, and an AI tutor. | Cloudflare Workers · D1 · Vanilla JS |
-| [**Pajegi**](https://pajegi.kerjasantuy.xyz) | Searchable encyclopedia of Indonesian tax regulations with copies of the official texts. Web + desktop. | Astro · Tauri 2 · Cloudflare |
+| [**Pajegi**](https://pajegi.kerjasantuy.xyz) · [source](https://github.com/mashiker/pajegi) | Searchable encyclopedia of Indonesian tax regulations with copies of the official texts. Web + desktop. | Astro · Tauri 2 · Cloudflare |
 | [**Dokurapi**](https://dokurapi.id) | Scan an invoice or faktur on Android, OCR it with a vision model, auto-fill the fields, export to Excel. | Kotlin + Jetpack Compose · Cloudflare Workers · React |
+| [**Tarif Pajak ID**](https://github.com/mashiker/tarifpajakmcp) · [site](https://tarif-pajak-id.pages.dev) | Open database of Indonesian tax rates since 1983 with validity intervals, legal basis, and per-claim verification status. Free JSON API, MIT. | TypeScript · Cloudflare Pages |
+| [**InvoicePajak**](https://github.com/mashiker/invoicepajak) | Client-side invoice generator with automatic PPN 12% and PPh 23/22/4(2) calculation. No backend, no data storage. MIT. | Vite · Tailwind |
 | [**Free Tax Templates**](https://github.com/mashiker/free-tax-templates) | Free Excel working-paper templates for Indonesian finance, accounting, and tax practitioners. | Excel |
 
 ### Stack

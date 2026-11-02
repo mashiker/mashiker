@@ -16,7 +16,7 @@
 ### About
 
 - **Indonesia tax expert** with 7+ years in corporate tax (manufacturing → property → PMA manufacturing group), hands-on in tax audits, SP2DK, and litigation support.
-- Founder of **alatpajak.id** and **bukpotrekap.id**, a family of TaxTech products used by in-house tax teams, consultants, and SMEs working inside DJP **Coretax**.
+- Founder of **alatpajak.id** and **bukpotrekap.id**, a family of independent TaxTech products used by in-house tax teams, consultants, and SMEs in Indonesia. Not affiliated with any government body.
 - I build with AI in the loop: LLM-assisted extraction, OCR for tax documents, and coding agents. Most of my stack runs on **Cloudflare Workers + D1**.
 - Based in Jakarta, Indonesia. Bahasa Indonesia and English.
 
@@ -24,9 +24,9 @@
 
 | Product | What it does | Stack |
 | --- | --- | --- |
-| [**e-Faktur Automation**](https://alatpajak.id) · alatpajak.id | Chrome extension that replaces manual, repetitive clicks in Coretax e-Faktur workflows. Credit-based, with its own billing and admin telemetry. | Chrome Extension · Next.js · Firebase · Cloudflare Workers |
+| [**e-Faktur Automation**](https://alatpajak.id) · alatpajak.id | Chrome extension that replaces manual, repetitive clicks in high-volume tax invoice workflows. Credit-based, with its own billing and admin telemetry. | Chrome Extension · Next.js · Firebase · Cloudflare Workers |
 | [**BukpotRekap**](https://bukpotrekap.id) | Turns withholding tax slips (bukti potong) and tax invoices from PDF into clean Excel recaps. Desktop edition runs 100% locally for privacy. | Tauri 2 (Rust + React) · Python |
-| [**Bukpot Express**](https://github.com/mashiker/BukpotExpress) | Bulk downloader for bukti potong on Coretax. Live on the Chrome Web Store, source open under MIT. | JavaScript · Chrome Extension |
+| [**Bukpot Express**](https://github.com/mashiker/BukpotExpress) | Bulk downloader for withholding tax slips (bukti potong). Live on the Chrome Web Store, source open under MIT. | JavaScript · Chrome Extension |
 | [**Simulasi UKP**](https://ukp.alatpajak.id) | Freemium computer-based test simulator for the Indonesian tax competency exam (UKP), with question bank, timed sessions, and an AI tutor. | Cloudflare Workers · D1 · Vanilla JS |
 | [**Pajegi**](https://pajegi.kerjasantuy.xyz) · [source](https://github.com/mashiker/pajegi) | Searchable encyclopedia of Indonesian tax regulations with copies of the official texts. Web + desktop. | Astro · Tauri 2 · Cloudflare |
 | [**Dokurapi**](https://dokurapi.id) | Scan an invoice or faktur on Android, OCR it with a vision model, auto-fill the fields, export to Excel. | Kotlin + Jetpack Compose · Cloudflare Workers · React |
@@ -54,7 +54,7 @@
 
 - **Tax first, code second.** Every tool starts from a real month-end pain I have lived through.
 - **Privacy by default.** Desktop editions process documents locally. Nothing leaves the machine unless the user chooses.
-- **Click replacement, not system integration.** Browser tools only automate what a human would click on screen; they never touch Coretax internals.
+- **Click replacement, not system integration.** Browser tools only automate what a human would click on screen. They are independent third-party tools and never integrate with any external system's internals.
 
 ### Connect
 
